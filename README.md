@@ -1,4 +1,8 @@
-# Awesome Ryu [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Ryu
+
+[![Awesome](https://shieldcn.dev/badge/Awesome-Ryu-73DC8C.svg?logo=awesomelists&logoColor=white)](https://github.com/amajorai/ryu)
+[![Discord](https://shieldcn.dev/discord/1439211418724597800.svg?logo=discord&logoColor=white&color=4B78E6)](https://ryuhq.com/discord)
+[![X](https://shieldcn.dev/badge/Follow-@ryuhq-FA9BFA.svg?logo=x&logoColor=white)](https://twitter.com/ryuhq)
 
 > A curated list of awesome things built with and around [Ryu](https://github.com/amajorai/ryu) —
 > the open-core orchestration and control layer for AI agents.
