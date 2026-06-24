@@ -61,9 +61,9 @@ each is a swappable slot, none is hardcoded:
 
 ## Tools & MCP Servers
 
-- [Ghost](https://github.com/amajorai/ryu/tree/main/apps/ghost) — desktop-automation MCP server
+- [Ghost](https://github.com/amajorai/ghost) — desktop-automation MCP server
   (screen perception + input control). Dual-use, consent-gated. `Apache-2.0`
-- [Shadow](https://github.com/amajorai/ryu/tree/main/apps/shadow) — screen/audio/input capture,
+- [Shadow](https://github.com/amajorai/shadow) — screen/audio/input capture,
   OCR, and semantic search. Dual-use, consent-gated. `Apache-2.0`
 
 ## Engines
